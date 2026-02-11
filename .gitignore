@@ -11,3 +11,4 @@ wheels/
 .venv
 # Enviornments variables
 .env
+uv.lock
